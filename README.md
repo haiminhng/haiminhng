@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @haiminhng
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, HTML, CSS, Javascript, C++, Lua
-- 💞️ I’m looking to collaborate on Web App development 
-- 📫 How to reach me minhnguyen@outlook.de 
 
 <!---
 haiminhng/haiminhng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
